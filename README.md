@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **Bunyod-Suvonov/Bunyod-Suvonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## About Me
+🎓 ECE @ University of Michigan - Shanghai Jiao Tong University Joint Institute. 
+
+I enjoy working on backend and distributed systems projects. 
+  
+## 👨‍💻 Experience
+🎮  **Darlang Intelligence (Dlang.ai)**
+   - **Position:** Software Engineer Intern
+   - **Duration:** Dec 2025 - Present
+
+🌧️ **Robotics, Autonomy and Planning Lab @ UM-SJTU JI**
+   - **Position:** Research Assistant
+   - **Duration:** May - Sep 2024
+
+🌧️ **UM-SJTU JI**
+   - **Position:** Teaching Assistant
+   - **Duration:** Sep - Dec 2024
+
+## 🛠 Skills:
+- **Languages:** C++, Python, Golang, Java, JavaScript
+
+## ✨ Fun Fact
+No fun facts
+
+## 🔍 Where to Find Me
+- **LinkedIn:** https://www.linkedin.com/in/bunyod-suvonov/
+- **Portfolio:** no portfolio
