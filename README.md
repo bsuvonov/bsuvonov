@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 👨‍💻 **UM-SJTU JI**
    - **Position:** Teaching Assistant
+   - **Course:** Accelerated Intro to Computers and Programming
    - **Duration:** Sep - Dec 2024
 
 ## 🛠 Skills:
@@ -40,4 +41,4 @@ No fun facts-->
 
 ## 🔍 Where to Find Me
 - **LinkedIn:** https://www.linkedin.com/in/bunyod-suvonov/
-- **Portfolio:** no portfolio
+- **Email:** [b.suvonov@sjtu.edu.cn](mailto:b.suvonov@sjtu.edu.cn)
