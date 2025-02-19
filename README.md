@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ## About Me
-🎓 ECE @ University of Michigan - Shanghai Jiao Tong University Joint Institute. 
+🎓 ECE Junior Student @ University of Michigan - Shanghai Jiao Tong University Joint Institute. 
 
 <!--I enjoy working on backend and distributed systems projects.-->
   
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    - **Position:** Software Engineer Intern
    - **Duration:** Dec 2025 - Present
 
-🤖 **Robotics, Autonomy and Planning Lab @ UM-SJTU JI**
+🤖 **Robotics, Autonomy and Planning Lab @ UM-SJTU JI** ([@rap-lab-org](https://github.com/rap-lab-org))
    - **Position:** Research Assistant
    - **Duration:** May - Sep 2024
 
