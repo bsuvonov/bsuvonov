@@ -33,7 +33,7 @@ Here are some ideas to get you started:
    - **Duration:** Sep - Dec 2024
 
 ## 🛠 Skills:
-- **Languages:** C++, Python, Golang, Java, JavaScript
+- **Languages:** C++, Python, Golang, JavaScript, Java
 
 <!--## ✨ Fun Fact
 No fun facts-->
