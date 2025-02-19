@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About Me
 🎓 ECE @ University of Michigan - Shanghai Jiao Tong University Joint Institute. 
 
-I enjoy working on backend and distributed systems projects. 
+<!--I enjoy working on backend and distributed systems projects.-->
   
 ## 👨‍💻 Experience
 💻  **Darlang Intelligence (Dlang.ai)**
@@ -35,8 +35,8 @@ I enjoy working on backend and distributed systems projects.
 ## 🛠 Skills:
 - **Languages:** C++, Python, Golang, Java, JavaScript
 
-## ✨ Fun Fact
-No fun facts
+<!--## ✨ Fun Fact
+No fun facts-->
 
 ## 🔍 Where to Find Me
 - **LinkedIn:** https://www.linkedin.com/in/bunyod-suvonov/
