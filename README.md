@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 I enjoy working on backend and distributed systems projects. 
   
 ## 👨‍💻 Experience
-🎮  **Darlang Intelligence (Dlang.ai)**
+💻  **Darlang Intelligence (Dlang.ai)**
    - **Position:** Software Engineer Intern
    - **Duration:** Dec 2025 - Present
 
-🌧️ **Robotics, Autonomy and Planning Lab @ UM-SJTU JI**
+🤖 **Robotics, Autonomy and Planning Lab @ UM-SJTU JI**
    - **Position:** Research Assistant
    - **Duration:** May - Sep 2024
 
-🌧️ **UM-SJTU JI**
+👨‍💻 **UM-SJTU JI**
    - **Position:** Teaching Assistant
    - **Duration:** Sep - Dec 2024
 
