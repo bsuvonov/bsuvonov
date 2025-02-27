@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 No fun facts-->
 
 ## 🔍 Where to Find Me
-- **LinkedIn:** https://www.linkedin.com/in/bunyod-suvonov/
+- **LinkedIn:** [linkedin.com/in/bunyod-suvonov/](https://www.linkedin.com/in/bunyod-suvonov/)
 - **Email:** [b.suvonov@sjtu.edu.cn](mailto:b.suvonov@sjtu.edu.cn)
