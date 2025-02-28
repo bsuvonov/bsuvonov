@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 👨‍💻 Experience
 💻  **Darlang Intelligence (Dlang.ai)**
    - **Position:** Software Engineer Intern
-   - **Duration:** Dec 2025 - Present
+   - **Duration:** Dec 2024 - Present
 
 🤖 **Robotics, Autonomy and Planning Lab @ UM-SJTU JI** ([@rap-lab-org](https://github.com/rap-lab-org))
    - **Position:** Research Assistant
