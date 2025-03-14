@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ## About Me
 🎓 ECE Junior Student @ University of Michigan - Shanghai Jiao Tong University Joint Institute. 
 
-<!--I enjoy working on backend and distributed systems projects.-->
   
 ## 👨‍💻 Experience
 💻  **Darlang Intelligence (Dlang.ai)**
@@ -36,9 +35,8 @@ Here are some ideas to get you started:
 ## 🛠 Skills:
 - **Languages:** C++, Python, Golang, JavaScript, Java
 
-<!--## ✨ Fun Fact
-No fun facts-->
 
 ## 🔍 Where to Find Me
 - **LinkedIn:** [linkedin.com/in/bunyod-suvonov/](https://www.linkedin.com/in/bunyod-suvonov/)
 - **Email:** [b.suvonov@sjtu.edu.cn](mailto:b.suvonov@sjtu.edu.cn)
+-->
